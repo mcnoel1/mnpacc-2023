@@ -45,6 +45,6 @@ deployments:
     work_queue_name:
     job_variables: {}
   schedule:
-    interval: 100.0
+    interval: 120.0
     anchor_date: '2023-07-06T18:46:54.068569+00:00'
     timezone: UTC
