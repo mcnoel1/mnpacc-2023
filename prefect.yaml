@@ -33,7 +33,7 @@ deployments:
   schedule:
     interval: 60.0
     anchor_date: '2023-07-06T18:43:56.393263+00:00'
-    timezone: UTC
+    timezone: EST
 - name: test105
   version:
   tags: []
@@ -47,4 +47,4 @@ deployments:
   schedule:
     interval: 120.0
     anchor_date: '2023-07-06T18:46:54.068569+00:00'
-    timezone: UTC
+    timezone: EST
